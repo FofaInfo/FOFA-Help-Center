@@ -211,3 +211,5 @@ Generally, this situation is caused by your scanner or scanning plugin making ma
 ## Under what circumstances will the FOFA account be permanently banned?
 
 According to the "FOFA User Service Agreement", FOFA accounts do not support multi-person shared use. If your account is shared by multiple people or authorized illegally, it will be permanently banned.
+
+# Video Tutorials
