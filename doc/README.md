@@ -179,6 +179,7 @@ Check in the member rights and interests at the bottom left of the personal cent
 According to the current membership identity restrictions, the longest download address save time is 30 days, please download your results as soon as possible.
 
 
+
 # Other Questions
 
 
@@ -213,3 +214,21 @@ Generally, this situation is caused by your scanner or scanning plugin making ma
 According to the "FOFA User Service Agreement", FOFA accounts do not support multi-person shared use. If your account is shared by multiple people or authorized illegally, it will be permanently banned.
 
 
+
+# FAQ
+
+## What is FOFA?
+
+## Membership Questions
+
+## What is an F point?
+
+## Query Syntax
+
+## Use of API
+
+## How to change the email?
+
+## Where can I see FOFA technology articles?
+
+## Under what circumstances will the FOFA account be permanently banned?
